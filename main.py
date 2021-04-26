@@ -1,3 +1,11 @@
-import PySimpleGUI
+import PySimpleGUI as sg
 
-print('olá mundo')
+class PassGen:
+    def __init__(self):
+        pass
+
+    def Iniciar(self):
+        pass
+
+gen = PassGen
+gen.Iniciar()
